@@ -90,3 +90,6 @@ Makes it easier for users to navigate and utilize Trulens documentation.
 ### Enhanced Learning Curve: 
 Helps new users to quickly get up to speed with the platform’s capabilities.
 Quality Assurance: Ensures that the documentation remains current, accurate, and user-friendly.
+
+
+Ask Trueblock for guidance to add Trulens into your project now : https://chat.qlaus.app/embedded/public/87c92de2-cc30-4702-801f-07a8b4b3d97e
