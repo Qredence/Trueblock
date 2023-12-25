@@ -1,3 +1,5 @@
+
+![visualblock](https://github.com/Qredence/Trueblock/assets/60674042/5a114a47-3244-4dd4-aacf-585006c0af09)
 # TrueBlock
 # Part 1: Visual Node for Trulens in a Notebook
 ##  Objective
