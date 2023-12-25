@@ -68,6 +68,7 @@ const NODE_SPEC = {
 # Part 2: RAG on Trulens Documentation
 ![Illustration](https://github.com/Qredence/Trueblock/assets/60674042/0db405c2-79ee-434a-a4ee-ea8529647a00)
 
+# Ask Trueblock for guidance to add Trulens into your project now : https://chat.qlaus.app/embedded/public/87c92de2-cc30-4702-801f-07a8b4b3d97e
 
 ## Objective
 To develop a comprehensive Robustness, Assurance, and Guidance (RAG) system for Trulens documentation.
@@ -92,4 +93,4 @@ Helps new users to quickly get up to speed with the platform’s capabilities.
 Quality Assurance: Ensures that the documentation remains current, accurate, and user-friendly.
 
 
-Ask Trueblock for guidance to add Trulens into your project now : https://chat.qlaus.app/embedded/public/87c92de2-cc30-4702-801f-07a8b4b3d97e
+# Ask Trueblock for guidance to add Trulens into your project now : https://chat.qlaus.app/embedded/public/87c92de2-cc30-4702-801f-07a8b4b3d97e
