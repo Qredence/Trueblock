@@ -19,6 +19,9 @@ Educational Value: Offers a valuable tool for educational purposes, helping stud
 
 
 # Part 2: RAG on Trulens Documentation
+![Illustration](https://github.com/Qredence/Trueblock/assets/60674042/0db405c2-79ee-434a-a4ee-ea8529647a00)
+
+
 ## Objective
 To develop a comprehensive Robustness, Assurance, and Guidance (RAG) system for Trulens documentation.
 To provide users with a clear, structured, and detailed understanding of Trulens’ functionalities and best practices.
