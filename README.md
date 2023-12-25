@@ -16,7 +16,49 @@ Seamless Integration: Effortlessly embeddable in popular data science notebooks.
 Increased Productivity: Streamlines the process of data analysis, allowing for more efficient exploration and interpretation of data.
 Educational Value: Offers a valuable tool for educational purposes, helping students and newcomers understand complex data analysis concepts visually.
 
-
+const NODE_SPEC = {
+  "id": "trulens-node",
+  "name": "Trulens Node",
+  "category": "processor",
+  "outputSpecs": [
+    {
+      "name": "detections",
+      "type": "object"
+    }
+  ],
+  "inputSpecs": [
+    {
+      "name": "image",
+      "type": "object",
+      "editorSpec": {
+        "type": "image_input"
+      }
+    }
+  ],
+  "propertySpecs": [
+    {
+      "name": "model_path",
+      "type": "string",
+      "editorSpec": {
+        "type": "text_input"
+      }
+    },
+    {
+      "name": "score_threshold",
+      "type": "number",
+      "editorSpec": {
+        "type": "number_input"
+      }
+    },
+    {
+      "name": "max_boxes",
+      "type": "number",
+      "editorSpec": {
+        "type": "number_input"
+      }
+    }
+  ]
+};
 
 # Part 2: RAG on Trulens Documentation
 ![Illustration](https://github.com/Qredence/Trueblock/assets/60674042/0db405c2-79ee-434a-a4ee-ea8529647a00)
