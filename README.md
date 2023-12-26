@@ -65,6 +65,12 @@ const NODE_SPEC = {
 };
 ```
 
+###[WORK IN PROGRESS ] 
+```bash
+https://visualblocks.withgoogle.com/#/demo?project_json=https://lqffwmrfmlarkbjzejia.supabase.co/storage/v1/object/sign/avatars/Trul.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJhdmF0YXJzL1RydWwuanNvbiIsImlhdCI6MTcwMzU2ODA1MywiZXhwIjoxNzM1MTA0MDUzfQ.Y6sBjhsmZMT5xbTINlTzUhBL696E7NxbIjhODqxm1i8&t=2023-12-26T05%3A20%3A54.048Z
+```
+
+
 # Part 2: RAG on Trulens Documentation
 ![Illustration](https://github.com/Qredence/Trueblock/assets/60674042/0db405c2-79ee-434a-a4ee-ea8529647a00)
 
